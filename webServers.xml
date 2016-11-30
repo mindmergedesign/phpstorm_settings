@@ -1,0 +1,160 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="736a515f-f91c-4bb4-b6ff-ccd58f9c1297" name="MMD Test" url="http://mmdtest.net">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6eb014c2-e807-45ec-aec8-5fa2bd68bcb2" name="ALtered Ego" url="http://alteredego.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3f77099c-602a-4d24-9863-479612292af4" name="KLM Properties" url="http://klmredesign.com/">
+        <fileTransfer host="klmproperties.com" port="2200" rootFolder="/home/klmprope" accessType="SFTP" password="dfc5dfd8dfcbdfe3df96dffedfd8df93dfc9df8cdf8fdf9edffcdf81dfdadfef" username="klmprope">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="712b5659-2236-4a09-a12a-33ee2c630b3a" name="mmd materialize- staging" url="http://mmd-materialize.mmdtest.net">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/mmd-materialize" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ad4e13a-4459-4a40-9e3f-3dfe35ed2b6e" name="warrior-staging" url="http://warrior.mmdtest.net">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/warrior" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="19349470-8f67-4b80-96ee-e7292e790472" name="klm-staging" url="http://klmredesign.mmdtest.net">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/klmredesign" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5b6875ad-7b7c-406b-9f78-22da96ccf92a" name="Sails" url="http://localhost:1337">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8bcc35f8-6d6f-4953-bc95-b62974ac5b83" name="Stewart Design" url="http://stewartdesignllc2.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="dd19831e-76f1-4493-9d7e-675cd1199cd5" name="seamon law" url="http://seamonlawoffices.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="34c3f92e-33e8-4bfc-9789-f4d3b8c5834f" name="PUB" url="http://pubwv.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e6a8019b-c2d3-453e-80f6-8f0db91ccaf6" name="Align HR" url="http://alignhumanresources.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5a127e56-2480-4562-9004-e7c875efeb2e" name="mub" url="http://mub.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ab1f9bcd-4179-42eb-bc02-65c7962dfbbc" name="hybridtool" url="http://hybridtool.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8f57340b-b876-407d-9ca7-8341bc9d5a3c" name="highpoint" url="http://highpointwv.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="b903c56f-6bb3-4c56-9edc-6b4024c12f58" name="whispercreek" url="http://whispercreekluxuryapartments.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7f5a8bb3-19b3-442e-a743-e3d126bbb78a" name="reliablefieldsvc" url="http://reliablefieldsvc.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f9c91adc-c9b6-407f-96ac-49e861b3ac2c" name="completephysique" url="http://completephysiqueusa.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="b721ca08-1fca-442c-bf24-a925d5299562" name="extremeplasticsplus" url="http://extremeplasticsplus.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="abf529b8-7381-450d-bbdc-046dc1e2ddec" name="mmdcanvas" url="http://mmdcanvas.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5c487a8f-ef11-4eb7-a2c4-eebeed5db5c2" name="ridgerunner" url="http://ridgerunnerpls.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e97a1328-0032-4989-84e5-e1631a352d57" name="klmproperties" url="http://klmproperties.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7aca416b-6cbe-487c-a819-a63fc39ccb2d" name="october" url="http://october.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="b04657a3-73e7-4cc6-9523-c524d93ecb28" name="masprosumer" url="http://masprosumer.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2e765ce9-d5b2-433b-a138-3208a45c982c" name="chateauroyaleapartments" url="http://chateauroyaleapartments.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d51bfbea-c52e-4420-a094-7a56fbd56c82" name="triplescott" url="http://triplescott.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="166377de-6cb8-4321-a25c-1552e9d88ef4" name="chateausouth-villageatwhitehall" url="http://chateausouth-villageatwhitehall.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="69cd04d1-9c6a-4333-918f-1b266ed09a88" name="mmd-canvas2" url="http://mmdcanvas2.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0a9fb62f-7f75-4ba2-8d50-5a23531c4ecf" name="ctahighflyers" url="http://ctahighflyers.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="123bfe39-65bc-494e-ae33-bd84da33bb73" name="hybrid-tool" url="http://hybridtool.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c519271e-2969-489e-8e40-204c0943c367" name="bluemountain" url="http://bluemountain.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e64822a3-5794-4f98-8144-5b22ccc62814" name="wvlpca" url="http://wvlpca.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c963b5ab-e555-42d5-a9cb-17e5b7fe69ff" name="american homes" url="http://seeamericanhomes.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="817515ce-b8fc-4caa-908d-96b5b82aeceb" name="antion mcgee" url="http://antionmcgee.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="01fa0247-0b49-444e-aa06-4b271ab9f6da" name="wvovarianclaims" url="http://wvovarianclaims.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0b694b72-920c-4a31-8126-82bc8056a001" name="wvovarianclaims (1)" url="http://wvovarianclaims.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="bd55c81e-4ba2-46bb-ac29-bedcccbb6724" name="stewart design" url="http://stewartdesignllc.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5352257d-ed99-4eb6-af82-ec12ab179680" name="wvmesotheliomaclaims" url="http://wvmesotheliomaclaims.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="182973ff-51d9-43f3-ab75-127414aa8512" name="fuzionfs" url="http://fuzionfs.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="44b7aec6-9adb-4e61-9a68-bf5b8943f9a1" name="mmdboilerplate" url="http://mmdboilerplate.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="daf30210-0e4f-4db0-a383-06fa417685b6" name="rockforgebridgeco" url="http://rockforgebridgeco.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="75b888b3-3f43-405e-bd45-11ca152ed9e9" name="bujuukofoundation" url="http://bujuukofoundation.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="106c5588-fac4-4555-b1f5-2f2061900595" name="citizensbank" url="http://citizensbank.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d5dfcc0a-d37c-4183-9630-265c9233b648" name="citizensbank (1)" url="http://citizensbankwv.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f2aac6fc-cd76-4f94-90d4-ea35a67f4458" name="mmdboilerplate (1)" url="http://mmdboilerplate.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a572bea4-7a78-4636-a286-a034632727af" name="laravelboilerplate" url="http://laravelboilerplate.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="146ee7ee-0094-4b34-a9b7-53fd69403a2a" name="laratest" url="http://laratest.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="84e393f2-0963-4f2f-8877-b9966700b0f4" name="cphysique" url="http://cphysique.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

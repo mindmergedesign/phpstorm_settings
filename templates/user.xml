@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="bplg" value="@media (min-width: $breakpoint-large) {&#10;  //&#10;}" description="Breakpoint Large" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="bpmd" value="@media (min-width: $breakpoint-medium) {&#10;  //&#10;}" description="Breakpoint Medium" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="bpsm" value="@media (min-width: $breakpoint-small) {&#10;  //&#10;}" description="Breakpoint Small" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
