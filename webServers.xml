@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="736a515f-f91c-4bb4-b6ff-ccd58f9c1297" name="MMD Test" url="http://mmdtest.net">
-        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest" accessType="SFTP" username="mmdtest" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -13,22 +13,22 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="3f77099c-602a-4d24-9863-479612292af4" name="KLM Properties" url="http://klmredesign.com/">
-        <fileTransfer host="klmproperties.com" port="2200" rootFolder="/home/klmprope" accessType="SFTP" password="dfc5dfd8dfcbdfe3df96dffedfd8df93dfc9df8cdf8fdf9edffcdf81dfdadfef" username="klmprope">
+        <fileTransfer host="klmproperties.com" port="2200" rootFolder="/home/klmprope" accessType="SFTP" username="klmprope" password="dfc5dfd8dfcbdfe3df96dffedfd8df93dfc9df8cdf8fdf9edffcdf81dfdadfef">
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
       <webServer id="712b5659-2236-4a09-a12a-33ee2c630b3a" name="mmd materialize- staging" url="http://mmd-materialize.mmdtest.net">
-        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/mmd-materialize" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/mmd-materialize" accessType="SFTP" username="mmdtest" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4">
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
       <webServer id="0ad4e13a-4459-4a40-9e3f-3dfe35ed2b6e" name="warrior-staging" url="http://warrior.mmdtest.net">
-        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/warrior" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/warrior" accessType="SFTP" username="mmdtest" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4">
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
       <webServer id="19349470-8f67-4b80-96ee-e7292e790472" name="klm-staging" url="http://klmredesign.mmdtest.net">
-        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/klmredesign" accessType="SFTP" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4" username="mmdtest">
+        <fileTransfer host="mmdtest.net" port="2200" rootFolder="/home/mmdtest/public_html/klmredesign" accessType="SFTP" username="mmdtest" password="dfe7dfe7dfeedf87df98df9adf9adf93dfeadfc7dfc5dfd8dfcddfcbdfc4dfdedfc5dfdddfc4">
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
@@ -153,6 +153,9 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="84e393f2-0963-4f2f-8877-b9966700b0f4" name="cphysique" url="http://cphysique.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="555d5e3e-7a4c-4051-ba77-fa27e6124839" name="popshop" url="http://popshopwv.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
