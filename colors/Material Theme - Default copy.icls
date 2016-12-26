@@ -1,14 +1,15 @@
 <scheme name="Material Theme - Default copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.6" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG M DZ for Powerline" />
+    <option name="EDITOR_FONT_NAME" value="Operator Mono" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Meslo LG M DZ for Powerline" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG M DZ for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
@@ -297,6 +298,7 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="6dc2b8" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -403,6 +405,7 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -787,6 +790,12 @@
       <value>
         <option name="FOREGROUND" value="c3e887" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="546e7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -13045,6 +13054,18 @@
     <option name="PHP_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="546e7a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="546e7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
