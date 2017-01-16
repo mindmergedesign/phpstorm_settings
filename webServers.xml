@@ -164,7 +164,7 @@
       <webServer id="f6903200-192a-4e6f-b655-1c8abba7ae4e" name="greyhouse" url="http://greyhouse.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="ede7def0-7e91-492b-91ce-a1ee2eadd3b0" name="canvasblog" url="http://canvasblog.dev">
+      <webServer id="d59d0fc5-fc3f-4d67-a62e-20ba969c9ba6" name="popshop" url="http://popshowv.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
