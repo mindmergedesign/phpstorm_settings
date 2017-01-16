@@ -164,7 +164,10 @@
       <webServer id="f6903200-192a-4e6f-b655-1c8abba7ae4e" name="greyhouse" url="http://greyhouse.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="d59d0fc5-fc3f-4d67-a62e-20ba969c9ba6" name="popshop" url="http://popshowv.dev">
+      <webServer id="d59d0fc5-fc3f-4d67-a62e-20ba969c9ba6" name="popshop (1)" url="http://popshowv.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b935141e-bcbd-4367-a9ad-f37300699568" name="juangiraldo" url="http://juangiraldo.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
