@@ -170,10 +170,7 @@
       <webServer id="b935141e-bcbd-4367-a9ad-f37300699568" name="juangiraldo" url="http://juangiraldo.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="e14a5521-8b17-4cf0-9efd-b4d5743d574a" name="platform.coop" url="http://platformcoop.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="40e38aca-c684-40b2-86ec-ea06d68d51ca" name="platform.coop" url="http://platform.coop.dev">
+      <webServer id="6f4ebd50-1a68-4faa-b13d-6e8566f0620d" name="juangiraldo" url="http://juangiraldo.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
