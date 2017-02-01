@@ -5,13 +5,14 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="_skeleton.scss" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="flags" type="PLAIN_TEXT" />
       <mapping pattern="_header-home.html" type="XHTML" />
       <mapping pattern="idx-commercial.html" type="XHTML" />
     </extensionMap>
