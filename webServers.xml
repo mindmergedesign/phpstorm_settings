@@ -176,6 +176,9 @@
       <webServer id="bff98dcf-68dc-4caa-985c-fd6d1a516cbc" name="platform.coop" url="http://platform.coop.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="58cf9732-94fe-47ac-b74a-7fc7891657c9" name="dynatestlabs" url="http://dynatestlabs.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
