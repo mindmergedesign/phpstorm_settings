@@ -179,6 +179,9 @@
       <webServer id="58cf9732-94fe-47ac-b74a-7fc7891657c9" name="dynatestlabs" url="http://dynatestlabs.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="461387d1-eee8-48b8-bb7d-b55f73ebd0b8" name="wallercorp" url="http://waller-corp.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
