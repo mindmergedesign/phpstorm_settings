@@ -182,7 +182,7 @@
       <webServer id="461387d1-eee8-48b8-bb7d-b55f73ebd0b8" name="wallercorp" url="http://waller-corp.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="57f9b958-3af0-4fad-b237-07566e99ba70" name="whispercreek" url="http://whispercreek.dev">
+      <webServer id="f15f3b74-f54a-451f-84b0-13c30f6e5beb" name="whispercreek" url="http://whispercreek.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
