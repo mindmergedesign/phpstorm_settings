@@ -188,6 +188,9 @@
       <webServer id="2c1d351b-1ce6-4c61-aa43-c4665b8140f0" name="starironworks" url="http://starironworks.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="07deaf69-f10a-409f-9e98-9d5bbb61914e" name="bujuukofoundation" url="http://bujuukofoundation.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
