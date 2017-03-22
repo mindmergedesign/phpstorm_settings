@@ -188,6 +188,12 @@
       <webServer id="ca0f4e44-9d8c-44f6-9335-c657c591e26a" name="stariron" url="http://starironworks.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5cee909c-690d-4779-ab14-7c78d845c459" name="compass realty group" url="http://compass-realtygroup.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c2c9e41a-14d8-475c-b64a-4d02f01a2f9b" name="compass realty group" url="http://compass-realtygroup.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
