@@ -191,7 +191,10 @@
       <webServer id="5cee909c-690d-4779-ab14-7c78d845c459" name="compass realty group" url="http://compass-realtygroup.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="c2c9e41a-14d8-475c-b64a-4d02f01a2f9b" name="compass realty group" url="http://compass-realtygroup.dev">
+      <webServer id="c2c9e41a-14d8-475c-b64a-4d02f01a2f9b" name="compass realty group (1)" url="http://compass-realtygroup.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ef60942-6be4-400c-beb8-34f76aefe1b7" name="Complete PS" url="http://completeps.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
