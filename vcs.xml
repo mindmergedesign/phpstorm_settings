@@ -46,6 +46,10 @@
           <option name="url" value="git@gitlab.com:giraldomac/bujuukofoundation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:mindmergedesign/completeps.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
