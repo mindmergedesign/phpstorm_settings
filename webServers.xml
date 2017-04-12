@@ -197,6 +197,9 @@
       <webServer id="6ef60942-6be4-400c-beb8-34f76aefe1b7" name="Complete PS" url="http://completeps.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="abc409c2-4a50-45a7-99d9-b0abeb05d139" name="PUB" url="http://pubwv.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
