@@ -200,6 +200,9 @@
       <webServer id="abc409c2-4a50-45a7-99d9-b0abeb05d139" name="PUB" url="http://pubwv.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a96270b3-b817-413d-9da3-47127baa9e96" name="stockmeier-urethanes" url="http://stockmeier-urethanes.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
