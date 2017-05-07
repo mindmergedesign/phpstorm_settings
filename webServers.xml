@@ -197,10 +197,13 @@
       <webServer id="6ef60942-6be4-400c-beb8-34f76aefe1b7" name="Complete PS" url="http://completeps.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="abc409c2-4a50-45a7-99d9-b0abeb05d139" name="PUB" url="http://pubwv.dev">
+      <webServer id="abc409c2-4a50-45a7-99d9-b0abeb05d139" name="PUB (1)" url="http://pubwv.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="a96270b3-b817-413d-9da3-47127baa9e96" name="stockmeier-urethanes" url="http://stockmeier-urethanes.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="67b71567-13e0-4ccf-8005-f08102613fc5" name="laraplay" url="http://laraplay.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
