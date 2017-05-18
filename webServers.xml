@@ -206,6 +206,9 @@
       <webServer id="67b71567-13e0-4ccf-8005-f08102613fc5" name="laraplay" url="http://laraplay.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="bca787b1-8005-47a5-a037-049de9474562" name="petedavisbuilders" url="http://petedavisbuilders.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
