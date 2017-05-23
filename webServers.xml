@@ -209,6 +209,9 @@
       <webServer id="bca787b1-8005-47a5-a037-049de9474562" name="petedavisbuilders" url="http://petedavisbuilders.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="76887f5d-e7fe-47c1-8a93-c62cbb9b3421" name="eetreehouses" url="http://eetreehouses.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
