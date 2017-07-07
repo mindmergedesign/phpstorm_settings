@@ -215,6 +215,9 @@
       <webServer id="3ba69c0b-a486-4b37-a313-044281d7d74d" name="stewartdesignllc" url="http://stewartdesignllc.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="92c4319c-0bce-4906-a132-e2867bc7014a" name="lakota-2017" url="http://lakota-2017.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
