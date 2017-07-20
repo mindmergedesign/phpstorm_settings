@@ -218,6 +218,9 @@
       <webServer id="92c4319c-0bce-4906-a132-e2867bc7014a" name="lakota-2017" url="http://lakota-2017.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="44f56e3c-0a7b-49f1-a3f8-281a6c777cd7" name="h2ha" url="http://h2ha.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
