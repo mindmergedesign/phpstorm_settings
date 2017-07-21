@@ -224,6 +224,9 @@
       <webServer id="e7b9b4cf-b2fe-460f-b957-e028760b4284" name="Hybrid Drilling" url="http://hybriddrilling.com.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="55c59404-b5c6-4588-b928-240ba2bd1e75" name="Hybrid Drilling" url="http://hybriddrilling.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
