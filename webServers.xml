@@ -221,6 +221,9 @@
       <webServer id="44f56e3c-0a7b-49f1-a3f8-281a6c777cd7" name="h2ha" url="http://h2ha.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e7b9b4cf-b2fe-460f-b957-e028760b4284" name="Hybrid Drilling" url="http://hybriddrilling.com.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
