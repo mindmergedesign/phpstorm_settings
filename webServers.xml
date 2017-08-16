@@ -224,10 +224,13 @@
       <webServer id="e7b9b4cf-b2fe-460f-b957-e028760b4284" name="Hybrid Drilling" url="http://hybriddrilling.com.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="55c59404-b5c6-4588-b928-240ba2bd1e75" name="Hybrid Drilling" url="http://hybriddrilling.dev">
+      <webServer id="55c59404-b5c6-4588-b928-240ba2bd1e75" name="Hybrid Drilling (1)" url="http://hybriddrilling.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="1064e791-f56a-49ef-8fd8-ed29a455ab33" name="Hybrid Drilling 2" url="http://hybriddrilling2.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="30c0ff3a-078b-4bff-871f-194a982cda1b" name="langcesj" url="http://langcesj.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
