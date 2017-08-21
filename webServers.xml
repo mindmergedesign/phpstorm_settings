@@ -233,6 +233,9 @@
       <webServer id="30c0ff3a-078b-4bff-871f-194a982cda1b" name="langcesj" url="http://langcesj.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="666ada26-8549-4cb1-b367-78701f029742" name="complate physique statamic" url="http://completepstatamic.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
