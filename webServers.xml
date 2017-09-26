@@ -236,6 +236,9 @@
       <webServer id="666ada26-8549-4cb1-b367-78701f029742" name="complate physique statamic" url="http://completepstatamic.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b497fa00-6ffe-4d2c-b24b-8ee23d1d1afd" name="kellyrental" url="http://kellyrentalwv.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
