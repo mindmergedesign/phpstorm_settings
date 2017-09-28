@@ -66,6 +66,10 @@
           <option name="url" value="git@bitbucket.org:mindmergedesign/completepstatamic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:mindmergedesign/kellyrentalwv.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
