@@ -82,6 +82,10 @@
           <option name="url" value="git@bitbucket.org:mindmergedesign/farmhouse-cafe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:mindmergedesign/rectenwald.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
