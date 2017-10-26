@@ -239,6 +239,9 @@
       <webServer id="b497fa00-6ffe-4d2c-b24b-8ee23d1d1afd" name="kellyrental" url="http://kellyrentalwv.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="23da05e5-7820-4989-8f90-be64757fc88b" name="alignhr.dev" url="http://alignhr.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
