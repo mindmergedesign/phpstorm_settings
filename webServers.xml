@@ -242,6 +242,9 @@
       <webServer id="23da05e5-7820-4989-8f90-be64757fc88b" name="alignhr.dev" url="http://alignhr.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9aa26f9a-b71f-4eee-8d8c-cb77075c9ab3" name="Country Roads Minerals" url="http://countryroadsminerals.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
